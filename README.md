@@ -5,7 +5,7 @@
 
 To get started with this project you can choose to either git-clone or [download the zip](https://github.com/Famous/famous-global-seed/archive/master.zip)
 
-open index.html, and start writing code in src/app.js
+open index.html, and start writing code in src/main.js
 
 That's it!!!
 
